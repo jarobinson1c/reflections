@@ -43,3 +43,10 @@ What happens when you initialize a repository? Why do you need to do it?
 	Git creates a hidden directory and records the name of all the files. It does this because
 	it needs a starting point to begin tracking changes the the files.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area only contains the files that you want to track. the directory
+	contains track and untrack files, and the repository directory.
+
+
+
