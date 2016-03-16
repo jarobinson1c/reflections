@@ -1,0 +1,18 @@
+How can you use the staging area to make sure you have one commit per logical change?
+
+	By running git diff --staged you can see the diffeent between the working 
+	directory and the staging area.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When trying something that is highly experamental and you want to keep the
+	master branch intact.
+
+How do the diagrams help you visualize the branch structure?
+
+	It helps you see the parents, branches, head and how they relate to each other.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Two sets of changes become one.
+
