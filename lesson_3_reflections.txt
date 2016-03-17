@@ -6,3 +6,10 @@ Why might you want to always pull changes manually rather than having Git automa
 stay up-to-date with your remote repository?
 
 	Because it can take a long time to process all of that data.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Use clone when you want to work on a repository on your local computer.
+	Use branches when you want to try some experimental code or new feature.
+	Use forks when you want to clone another repository online and keep the 
+	base code at the original source.
