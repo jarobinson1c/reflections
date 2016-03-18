@@ -13,3 +13,7 @@ Describe the differences between forks, clones, and branches. When would you use
 	Use branches when you want to try some experimental code or new feature.
 	Use forks when you want to clone another repository online and keep the 
 	base code at the original source.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	So you can compare before you push the changes to the origin.
