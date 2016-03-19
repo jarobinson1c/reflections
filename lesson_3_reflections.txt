@@ -22,3 +22,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 	I don't know what would be easier but I would be very difficult to do this with just 
 	plain text files and trying to keep up with all the changes manually.
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+         when you want to test out some experimental code or new features without breaking
+         the main branch.
